@@ -1,4 +1,4 @@
-package com.yc.test.案例一;
+package com.yc.test.案例一.springtest1;
 
 import com.yc.test.案例一.dao.UserDao;
 import org.springframework.stereotype.Repository;
